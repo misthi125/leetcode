@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/misthi125/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/misthi125/leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/misthi125/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/misthi125/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/misthi125/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/misthi125/leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/misthi125/leetcode/tree/master/0278-first-bad-version) |
 ## Interactive
