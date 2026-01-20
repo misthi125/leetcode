@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/misthi125/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/misthi125/leetcode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/misthi125/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/misthi125/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/misthi125/leetcode/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
