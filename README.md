@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/misthi125/leetcode/tree/master/0063-unique-paths-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/misthi125/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/misthi125/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/misthi125/leetcode/tree/master/0275-h-index-ii) |
 | [0414-third-maximum-number](https://github.com/misthi125/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/misthi125/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/misthi125/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/misthi125/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/misthi125/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/misthi125/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/misthi125/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/misthi125/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/misthi125/leetcode/tree/master/0374-guess-number-higher-or-lower) |
