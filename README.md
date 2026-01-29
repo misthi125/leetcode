@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/misthi125/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/misthi125/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/misthi125/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/misthi125/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
