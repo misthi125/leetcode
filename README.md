@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/misthi125/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/misthi125/leetcode/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/misthi125/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/misthi125/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/misthi125/leetcode/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 ## Binary Search
 |  |
