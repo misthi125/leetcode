@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/misthi125/leetcode/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
+| [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/misthi125/leetcode/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/misthi125/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/misthi125/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/misthi125/leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
