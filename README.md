@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/misthi125/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/misthi125/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Interactive
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
