@@ -17,10 +17,11 @@ public:
                 c=1;
             }
             else c=0;
-          k=to_string(y)+k;
+          k.push_back(y+'0');
            
         }
-        if(c==1)k=to_string(c)+k;
+        if(c==1)k.push_back(c+'0');
+        reverse(k.begin(),k.end());
         return k;
     }
 };
