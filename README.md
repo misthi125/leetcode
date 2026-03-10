@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/misthi125/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/misthi125/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/misthi125/leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/misthi125/leetcode/tree/master/0057-insert-interval) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/misthi125/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/misthi125/leetcode/tree/master/0049-group-anagrams) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 ## Heap (Priority Queue)
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/misthi125/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
