@@ -4,6 +4,7 @@ public:
         int low=0,high=0;
         int mul=1;
         int cnt=0,n=nums.size();
+        if(k<=1)return 0;
         while(high<n){
             mul*=nums[high];
             while(mul>=k && low<=high){
