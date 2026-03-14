@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/misthi125/leetcode/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/misthi125/leetcode/tree/master/0344-reverse-string) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/misthi125/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/misthi125/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/misthi125/leetcode/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/misthi125/leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
