@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/misthi125/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/misthi125/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/misthi125/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 ## Heap (Priority Queue)
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/misthi125/leetcode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/misthi125/leetcode/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/misthi125/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
