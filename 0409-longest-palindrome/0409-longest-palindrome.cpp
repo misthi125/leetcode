@@ -1,17 +1,18 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        unordered_map<char,int>map;
-        for(auto it:s)map[it]++;
-        int cnt=0;
-        bool si=false;
-        for(auto it:map){
-            cnt+=2*(it.second/2);
-            if(!si && it.second%2==1){
-                si=true;
-                cnt++;
-            }
+        vector<int> freq(128, 0);
+
+        for (char c : s) freq[c]++;
+
+        int cnt = 0;
+        bool hasOdd = false;
+
+        for (int f : freq) {
+            cnt += (f / 2) * 2;
+            if (f % 2) hasOdd = true;
         }
-        return cnt;
+
+        return hasOdd ? cnt + 1 : cnt;
     }
 };
