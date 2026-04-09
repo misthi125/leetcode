@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/misthi125/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/misthi125/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/misthi125/leetcode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/misthi125/leetcode/tree/master/0290-word-pattern) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/misthi125/leetcode/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/misthi125/leetcode/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
