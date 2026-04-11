@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/misthi125/leetcode/tree/master/0482-license-key-formatting) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/misthi125/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3340-check-balanced-string](https://github.com/misthi125/leetcode/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
