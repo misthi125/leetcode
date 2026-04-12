@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/misthi125/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/misthi125/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/misthi125/leetcode/tree/master/0482-license-key-formatting) |
+| [0504-base-7](https://github.com/misthi125/leetcode/tree/master/0504-base-7) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/misthi125/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3340-check-balanced-string](https://github.com/misthi125/leetcode/tree/master/3340-check-balanced-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/misthi125/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/misthi125/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/misthi125/leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/misthi125/leetcode/tree/master/0504-base-7) |
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
