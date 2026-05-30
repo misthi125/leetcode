@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/misthi125/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/misthi125/leetcode/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/misthi125/leetcode/tree/master/0456-132-pattern) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/misthi125/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/misthi125/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/misthi125/leetcode/tree/master/0622-design-circular-queue) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
