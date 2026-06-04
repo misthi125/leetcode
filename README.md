@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/misthi125/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/misthi125/leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/misthi125/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/misthi125/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/misthi125/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/misthi125/leetcode/tree/master/0394-decode-string) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/misthi125/leetcode/tree/master/1922-count-good-numbers) |
