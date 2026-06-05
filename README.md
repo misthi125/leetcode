@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/misthi125/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/misthi125/leetcode/tree/master/0520-detect-capital) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/misthi125/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3340-check-balanced-string](https://github.com/misthi125/leetcode/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/misthi125/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/misthi125/leetcode/tree/master/0415-add-strings) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/misthi125/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/misthi125/leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/misthi125/leetcode/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/misthi125/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
