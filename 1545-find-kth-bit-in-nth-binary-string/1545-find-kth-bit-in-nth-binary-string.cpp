@@ -1,20 +1,33 @@
 class Solution {
 public:
-string revers(string a){
-    string k="";
-    for(int i=a.size()-1;i>=0;i--){
-        if(a[i]=='0')k.push_back('1');
-        else k.push_back('0');
+    string reverseInvert(const string& s) {
+        string res;
+        res.reserve(s.size());
+
+        for (int i = s.size() - 1; i >= 0; i--) {
+            res.push_back(s[i] == '0' ? '1' : '0');
+        }
+
+        return res;
     }
-    return k;
-}
-string a(int n){
-    if(n==1)return "0";
-    string p=a(n-1);
-    return p+"1"+revers(p);
-}
+
+    string buildString(int n) {
+        if (n == 1) return "0";
+
+        string prev = buildString(n - 1);
+        string rev = reverseInvert(prev);
+
+        string res;
+        res.reserve(prev.size() * 2 + 1);
+
+        res += prev;
+        res += '1';
+        res += rev;
+
+        return res;
+    }
+
     char findKthBit(int n, int k) {
-        string ki=a(n);
-        return ki[k-1];
+        return buildString(n)[k - 1];
     }
 };
