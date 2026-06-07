@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/misthi125/leetcode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/misthi125/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/misthi125/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/misthi125/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/misthi125/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/misthi125/leetcode/tree/master/0390-elimination-game) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/misthi125/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/misthi125/leetcode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/misthi125/leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/misthi125/leetcode/tree/master/0456-132-pattern) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/misthi125/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/misthi125/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/misthi125/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/misthi125/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/misthi125/leetcode/tree/master/0394-decode-string) |
