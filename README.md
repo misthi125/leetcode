@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/misthi125/leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/misthi125/leetcode/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/misthi125/leetcode/tree/master/0400-nth-digit) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/misthi125/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/misthi125/leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/misthi125/leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/misthi125/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/misthi125/leetcode/tree/master/0486-predict-the-winner) |
