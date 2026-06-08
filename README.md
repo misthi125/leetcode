@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/misthi125/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/misthi125/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/misthi125/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/misthi125/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/misthi125/leetcode/tree/master/0233-number-of-digit-one) |
+| [0282-expression-add-operators](https://github.com/misthi125/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/misthi125/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/misthi125/leetcode/tree/master/0367-valid-perfect-square) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/misthi125/leetcode/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/misthi125/leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
