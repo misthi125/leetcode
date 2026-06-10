@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/misthi125/leetcode/tree/master/0063-unique-paths-ii) |
 | [0233-number-of-digit-one](https://github.com/misthi125/leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/misthi125/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/misthi125/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/misthi125/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/misthi125/leetcode/tree/master/0486-predict-the-winner) |
 ## Math
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/misthi125/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/misthi125/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/misthi125/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/misthi125/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
