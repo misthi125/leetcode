@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/misthi125/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [1922-count-good-numbers](https://github.com/misthi125/leetcode/tree/master/1922-count-good-numbers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/misthi125/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/misthi125/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/misthi125/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/misthi125/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
