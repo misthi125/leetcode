@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/misthi125/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/misthi125/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/misthi125/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/misthi125/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/misthi125/leetcode/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/misthi125/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/misthi125/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/misthi125/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/misthi125/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/misthi125/leetcode/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/misthi125/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/misthi125/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/misthi125/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
