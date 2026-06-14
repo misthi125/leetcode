@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/misthi125/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/misthi125/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/misthi125/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/misthi125/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/misthi125/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/misthi125/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/misthi125/leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/misthi125/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/misthi125/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/misthi125/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/misthi125/leetcode/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/misthi125/leetcode/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/misthi125/leetcode/tree/master/0401-binary-watch) |
 ## Divide and Conquer
