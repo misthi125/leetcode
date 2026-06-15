@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/misthi125/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/misthi125/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/misthi125/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/misthi125/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/misthi125/leetcode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/misthi125/leetcode/tree/master/0436-find-right-interval) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/misthi125/leetcode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/misthi125/leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/misthi125/leetcode/tree/master/0290-word-pattern) |
+| [0318-maximum-product-of-word-lengths](https://github.com/misthi125/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/misthi125/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/misthi125/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/misthi125/leetcode/tree/master/0383-ransom-note) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/misthi125/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/misthi125/leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/misthi125/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/misthi125/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/misthi125/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/misthi125/leetcode/tree/master/0389-find-the-difference) |
