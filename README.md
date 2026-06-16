@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/misthi125/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/misthi125/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1922-count-good-numbers](https://github.com/misthi125/leetcode/tree/master/1922-count-good-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/misthi125/leetcode/tree/master/0868-binary-gap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/misthi125/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
