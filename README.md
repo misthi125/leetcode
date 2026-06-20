@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/misthi125/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/misthi125/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/misthi125/leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/misthi125/leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/misthi125/leetcode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/misthi125/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/misthi125/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/misthi125/leetcode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/misthi125/leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/misthi125/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/misthi125/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/misthi125/leetcode/tree/master/0461-hamming-distance) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/misthi125/leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/misthi125/leetcode/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/misthi125/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/misthi125/leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
