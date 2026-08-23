@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/misthi125/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/misthi125/leetcode/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/misthi125/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/misthi125/leetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/misthi125/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/misthi125/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/misthi125/leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/misthi125/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/misthi125/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/misthi125/leetcode/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/misthi125/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/misthi125/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/misthi125/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/misthi125/leetcode/tree/master/0622-design-circular-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
