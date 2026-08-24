@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/misthi125/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/misthi125/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/misthi125/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/misthi125/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3340-check-balanced-string](https://github.com/misthi125/leetcode/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/misthi125/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/misthi125/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/misthi125/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/misthi125/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
