@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/misthi125/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/misthi125/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/misthi125/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/misthi125/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/misthi125/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/misthi125/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/misthi125/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/misthi125/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/misthi125/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/misthi125/leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/misthi125/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/misthi125/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/misthi125/leetcode/tree/master/1598-crawler-log-folder) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/misthi125/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/misthi125/leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/misthi125/leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/misthi125/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/misthi125/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Ordered Set
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/misthi125/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/misthi125/leetcode/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
+| [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
