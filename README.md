@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/misthi125/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/misthi125/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/misthi125/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/misthi125/leetcode/tree/master/1598-crawler-log-folder) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/misthi125/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/misthi125/leetcode/tree/master/0962-maximum-width-ramp) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/misthi125/leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1006-clumsy-factorial](https://github.com/misthi125/leetcode/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/misthi125/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/misthi125/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
