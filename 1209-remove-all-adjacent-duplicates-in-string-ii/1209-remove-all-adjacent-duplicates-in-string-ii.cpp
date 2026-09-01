@@ -1,28 +1,31 @@
 class Solution {
 public:
-    string removeDuplicates(string o, int k) {
-        stack<string>a;
-       for(auto i:o){
-        if(!a.empty()){
-            if(i==a.top()[0]){
-                string s=a.top();
-                s.push_back(i);
-                a.pop();
-                if(s.size()==k)continue;
-                else a.push(s);
+    string removeDuplicates(string s, int k) {
+        stack<pair<char, int>> st;
+
+        for (char i : s) {
+
+            if (!st.empty() && st.top().first == i) {
+                st.top().second++;
+
+                if (st.top().second == k) {
+                    st.pop();
+                }
             }
-            else a.push(string(1, i));
+            else {
+                st.push({i, 1});
+            }
         }
-        else{
-            a.push(string(1, i));
+
+        string ans = "";
+
+        while (!st.empty()) {
+            ans += string(st.top().second, st.top().first);
+            st.pop();
         }
-       }
-       string ans="";
-       while(!a.empty()){
-        ans+=a.top();
-        a.pop();
-       }
-       reverse(ans.begin(),ans.end());
-       return ans;
+
+        reverse(ans.begin(), ans.end());
+
+        return ans;
     }
 };
