@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/misthi125/leetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/misthi125/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2073-time-needed-to-buy-tickets](https://github.com/misthi125/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/misthi125/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/misthi125/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/misthi125/leetcode/tree/master/1006-clumsy-factorial) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/misthi125/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/misthi125/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/misthi125/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/misthi125/leetcode/tree/master/3174-clear-digits) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/misthi125/leetcode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/misthi125/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/misthi125/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
 | ------- |
