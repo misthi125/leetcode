@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/misthi125/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/misthi125/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
+| [3829-design-ride-sharing-system](https://github.com/misthi125/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/misthi125/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2762-continuous-subarrays](https://github.com/misthi125/leetcode/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/misthi125/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/misthi125/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Linked List
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/misthi125/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1670-design-front-middle-back-queue](https://github.com/misthi125/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/misthi125/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3829-design-ride-sharing-system](https://github.com/misthi125/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Game Theory
 |  |
 | ------- |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/misthi125/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/misthi125/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/misthi125/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3829-design-ride-sharing-system](https://github.com/misthi125/leetcode/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Queue
 |  |
 | ------- |
