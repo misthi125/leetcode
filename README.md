@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/misthi125/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/misthi125/leetcode/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/misthi125/leetcode/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/misthi125/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/misthi125/leetcode/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/misthi125/leetcode/tree/master/0636-exclusive-time-of-functions) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/misthi125/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/misthi125/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/misthi125/leetcode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/misthi125/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/misthi125/leetcode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/misthi125/leetcode/tree/master/0649-dota2-senate) |
 | [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
