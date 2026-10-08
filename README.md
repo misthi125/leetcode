@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/misthi125/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/misthi125/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1124-longest-well-performing-interval](https://github.com/misthi125/leetcode/tree/master/1124-longest-well-performing-interval) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/misthi125/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/misthi125/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/misthi125/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1006-clumsy-factorial](https://github.com/misthi125/leetcode/tree/master/1006-clumsy-factorial) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/misthi125/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/misthi125/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/misthi125/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/misthi125/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/misthi125/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/misthi125/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/misthi125/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
