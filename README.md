@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/misthi125/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/misthi125/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/misthi125/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/misthi125/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/misthi125/leetcode/tree/master/1720-decode-xored-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/misthi125/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/misthi125/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/misthi125/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/misthi125/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/misthi125/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/misthi125/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/misthi125/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/misthi125/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/misthi125/leetcode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/misthi125/leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1710-maximum-units-on-a-truck](https://github.com/misthi125/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/misthi125/leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
