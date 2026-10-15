@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/misthi125/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/misthi125/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/misthi125/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/misthi125/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/misthi125/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/misthi125/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/misthi125/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/misthi125/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/misthi125/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/misthi125/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
