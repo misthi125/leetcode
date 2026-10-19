@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/misthi125/leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/misthi125/leetcode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/misthi125/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0763-partition-labels](https://github.com/misthi125/leetcode/tree/master/0763-partition-labels) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 | [1124-longest-well-performing-interval](https://github.com/misthi125/leetcode/tree/master/1124-longest-well-performing-interval) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/misthi125/leetcode/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/misthi125/leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/misthi125/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/misthi125/leetcode/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/misthi125/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/misthi125/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/misthi125/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/misthi125/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/misthi125/leetcode/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/misthi125/leetcode/tree/master/0942-di-string-match) |
 | [0962-maximum-width-ramp](https://github.com/misthi125/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/misthi125/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/misthi125/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/misthi125/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/misthi125/leetcode/tree/master/0763-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/misthi125/leetcode/tree/master/0942-di-string-match) |
