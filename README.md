@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/misthi125/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/misthi125/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/misthi125/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/misthi125/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/misthi125/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/misthi125/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/misthi125/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/misthi125/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
 | [3829-design-ride-sharing-system](https://github.com/misthi125/leetcode/tree/master/3829-design-ride-sharing-system) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/misthi125/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/misthi125/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2762-continuous-subarrays](https://github.com/misthi125/leetcode/tree/master/2762-continuous-subarrays) |
 ## Matrix
 |  |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/misthi125/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/misthi125/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/misthi125/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/misthi125/leetcode/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/misthi125/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -570,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/misthi125/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/misthi125/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
