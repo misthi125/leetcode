@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/misthi125/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/misthi125/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/misthi125/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/misthi125/leetcode/tree/master/0853-car-fleet) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/misthi125/leetcode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/misthi125/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0763-partition-labels](https://github.com/misthi125/leetcode/tree/master/0763-partition-labels) |
+| [0781-rabbits-in-forest](https://github.com/misthi125/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/misthi125/leetcode/tree/master/0929-unique-email-addresses) |
 | [1124-longest-well-performing-interval](https://github.com/misthi125/leetcode/tree/master/1124-longest-well-performing-interval) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/misthi125/leetcode/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/misthi125/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0781-rabbits-in-forest](https://github.com/misthi125/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1006-clumsy-factorial](https://github.com/misthi125/leetcode/tree/master/1006-clumsy-factorial) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/misthi125/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/misthi125/leetcode/tree/master/0763-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/misthi125/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/misthi125/leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
