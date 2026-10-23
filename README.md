@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/misthi125/leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/misthi125/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/misthi125/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/misthi125/leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/misthi125/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Counting
