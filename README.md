@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/misthi125/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/misthi125/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2578-split-with-minimum-sum](https://github.com/misthi125/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/misthi125/leetcode/tree/master/1922-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/misthi125/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/misthi125/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/misthi125/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/misthi125/leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/misthi125/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/misthi125/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/misthi125/leetcode/tree/master/2578-split-with-minimum-sum) |
 ## Counting
 |  |
 | ------- |
