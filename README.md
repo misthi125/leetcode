@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/misthi125/leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/misthi125/leetcode/tree/master/0853-car-fleet) |
+| [0861-score-after-flipping-matrix](https://github.com/misthi125/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/misthi125/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [0918-maximum-sum-circular-subarray](https://github.com/misthi125/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/misthi125/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/misthi125/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/misthi125/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/misthi125/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/misthi125/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/misthi125/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/misthi125/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/misthi125/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/misthi125/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/misthi125/leetcode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/misthi125/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/misthi125/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/misthi125/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/misthi125/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/misthi125/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0861-score-after-flipping-matrix](https://github.com/misthi125/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/misthi125/leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
