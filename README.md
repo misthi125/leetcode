@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/misthi125/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/misthi125/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/misthi125/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2591-distribute-money-to-maximum-children](https://github.com/misthi125/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/misthi125/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/misthi125/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/misthi125/leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/misthi125/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2591-distribute-money-to-maximum-children](https://github.com/misthi125/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/misthi125/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
