@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/misthi125/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/misthi125/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/misthi125/leetcode/tree/master/0962-maximum-width-ramp) |
+| [0969-pancake-sorting](https://github.com/misthi125/leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/misthi125/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/misthi125/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/misthi125/leetcode/tree/master/0853-car-fleet) |
 | [0888-fair-candy-swap](https://github.com/misthi125/leetcode/tree/master/0888-fair-candy-swap) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/misthi125/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0969-pancake-sorting](https://github.com/misthi125/leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/misthi125/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/misthi125/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/misthi125/leetcode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/misthi125/leetcode/tree/master/0942-di-string-match) |
 | [0962-maximum-width-ramp](https://github.com/misthi125/leetcode/tree/master/0962-maximum-width-ramp) |
+| [0969-pancake-sorting](https://github.com/misthi125/leetcode/tree/master/0969-pancake-sorting) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/misthi125/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/misthi125/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/misthi125/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/misthi125/leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/misthi125/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/misthi125/leetcode/tree/master/0942-di-string-match) |
+| [0969-pancake-sorting](https://github.com/misthi125/leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/misthi125/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/misthi125/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/misthi125/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
