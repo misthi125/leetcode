@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/misthi125/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/misthi125/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/misthi125/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/misthi125/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3174-clear-digits](https://github.com/misthi125/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/misthi125/leetcode/tree/master/3340-check-balanced-string) |
 ## Heap (Priority Queue)
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/misthi125/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/misthi125/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/misthi125/leetcode/tree/master/2540-minimum-common-value) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/misthi125/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/misthi125/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/misthi125/leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sliding Window
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/misthi125/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/misthi125/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/misthi125/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/misthi125/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Counting
 |  |
 | ------- |
